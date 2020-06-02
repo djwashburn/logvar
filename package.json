@@ -1,5 +1,5 @@
 {
-  "name": "logvar",
+  "name": "@djwashburn/logvar",
   "version": "1.0.0",
   "description": "Tiny npm package to log variables labelled by their variable names.",
   "main": "index.js",
