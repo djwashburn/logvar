@@ -1,0 +1,23 @@
+{
+  "name": "logvar",
+  "version": "1.0.0",
+  "description": "Tiny npm package to log variables labelled by their variable names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djwashburn/logvar.git"
+  },
+  "keywords": [
+    "logging",
+    "development"
+  ],
+  "author": "Daniel Washburn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djwashburn/logvar/issues"
+  },
+  "homepage": "https://github.com/djwashburn/logvar#readme"
+}
